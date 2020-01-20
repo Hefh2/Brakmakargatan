@@ -31,22 +31,22 @@ TextureImporter:
     second: Kick3
   - first:
       213: -7186684499999866148
-    second: FallKick1
+    second: Jump
   - first:
       213: -934056970135361168
-    second: FallKick2
+    second: JumpKick1
   - first:
       213: 6367760164986117260
-    second: FallKick3
+    second: JumpKick2
   - first:
       213: 7184431281046100208
-    second: FallPunch1
+    second: JumpPunch1
   - first:
       213: -4596466639296162816
-    second: FallPunch2
+    second: JumpPunch2
   - first:
       213: -2807515657068981604
-    second: FallPunch3
+    second: JumpPunch3
   - first:
       213: -4258496916614104665
     second: Walk1
@@ -58,13 +58,13 @@ TextureImporter:
     second: Walk3
   - first:
       213: -561689218598997824
-    second: Block1
+    second: Walk4
   - first:
       213: 7593073772811820476
-    second: Block2
+    second: Block1
   - first:
       213: 7406615561274728560
-    second: Block3
+    second: Block2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallKick1
+      name: Jump
       rect:
         serializedVersion: 2
         x: 144
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallKick2
+      name: JumpKick1
       rect:
         serializedVersion: 2
         x: 160
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallKick3
+      name: JumpKick2
       rect:
         serializedVersion: 2
         x: 176
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallPunch1
+      name: JumpPunch1
       rect:
         serializedVersion: 2
         x: 192
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallPunch2
+      name: JumpPunch2
       rect:
         serializedVersion: 2
         x: 208
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FallPunch3
+      name: JumpPunch3
       rect:
         serializedVersion: 2
         x: 224
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block1
+      name: Walk4
       rect:
         serializedVersion: 2
         x: 288
@@ -546,7 +546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block2
+      name: Block1
       rect:
         serializedVersion: 2
         x: 304
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block3
+      name: Block2
       rect:
         serializedVersion: 2
         x: 320
