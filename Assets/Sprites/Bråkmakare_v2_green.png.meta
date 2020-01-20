@@ -49,22 +49,22 @@ TextureImporter:
     second: FallPunch3
   - first:
       213: -4258496916614104665
-    second: "Br\xE5kmakare_v2_green_15"
+    second: Walk1
   - first:
       213: 6629634270088969407
-    second: "Br\xE5kmakare_v2_green_16"
+    second: Walk2
   - first:
       213: 6789746572034052146
-    second: "Br\xE5kmakare_v2_green_17"
+    second: Walk3
   - first:
       213: -561689218598997824
-    second: "Br\xE5kmakare_v2_green_18"
+    second: Block1
   - first:
       213: 7593073772811820476
-    second: "Br\xE5kmakare_v2_green_19"
+    second: Block2
   - first:
       213: 7406615561274728560
-    second: "Br\xE5kmakare_v2_green_20"
+    second: Block3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_15"
+      name: Walk1
       rect:
         serializedVersion: 2
         x: 240
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_16"
+      name: Walk2
       rect:
         serializedVersion: 2
         x: 256
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_17"
+      name: Walk3
       rect:
         serializedVersion: 2
         x: 272
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_18"
+      name: Block1
       rect:
         serializedVersion: 2
         x: 288
@@ -546,7 +546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_19"
+      name: Block2
       rect:
         serializedVersion: 2
         x: 304
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Br\xE5kmakare_v2_green_20"
+      name: Block3
       rect:
         serializedVersion: 2
         x: 320
